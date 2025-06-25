@@ -21,10 +21,7 @@
 include:
   - board: mikoto@7.2
     shield: ergodash_left
-    snippet: zmk-usb-logging
   - board: mikoto@7.2
     shield: ergodash_right
-    snippet: zmk-usb-logging
   - board: mikoto@7.2
     shield: settings_reset
-    snippet: zmk-usb-logging
